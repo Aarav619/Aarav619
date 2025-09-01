@@ -1,4 +1,4 @@
-![logo](https://github.com/Aarav619/Aarav619/raw/refs/heads/main/background_img.avif)
+<!--![logo](https://github.com/Aarav619/Aarav619/raw/refs/heads/main/background_img.avif) -->
 <h1 align="center">Hi 👋, I'm Aarav Raj</h1>
 <h3 align="center">Currently, In learning mode for deep dive into the tech world!</h3>
 
