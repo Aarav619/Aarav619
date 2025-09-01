@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Aarav619/Aarav619/blob/main/background.webp?raw=true)
 <h1 align="center">Hi 👋, I'm Aarav Raj</h1>
 <h3 align="center">Currently, In learning mode for deep dive into the tech world!</h3>
 
